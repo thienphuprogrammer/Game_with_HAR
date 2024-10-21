@@ -1,0 +1,11 @@
+.idea
+.ipynb_checkpoints
+
+Dataset/
+data/raw/
+data/processed/
+
+results/models/*.h5
+results/models/har_model.pth
+results/models/CNN_LSTM.h5
+results/models/models.h5
